@@ -1,0 +1,6 @@
+[submodule "mon_frontend"]
+	path = mon_frontend
+	url = https://github.com/rom88n/mon_frontend
+[submodule "mon-backend"]
+	path = mon-backend
+	url = https://github.com/rom88n/mon-backend
